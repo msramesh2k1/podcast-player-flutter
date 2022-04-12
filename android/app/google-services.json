@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "463072012101",
+    "project_id": "podcast-player-9bd14",
+    "storage_bucket": "podcast-player-9bd14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463072012101:android:4105fb0563e3a3219b802c",
+        "android_client_info": {
+          "package_name": "com.example.podcastplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463072012101-bit7ufch166430h0g3vk2vh7gbf492em.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.podcastplayer",
+            "certificate_hash": "03fe908e51c385ded478f64de1675ee082fb8ee5"
+          }
+        },
+        {
+          "client_id": "463072012101-u0e4b85jl60eakc9c0atsr49e9ko5udi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.podcastplayer",
+            "certificate_hash": "dc93e42abc5721f51c1c57200c592ebcfd626347"
+          }
+        },
+        {
+          "client_id": "463072012101-0368dehegusnk9nirvqrrs2vdqdoe2tl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMksQ5SJLQuK4xcH5FTFfFXabjxPbHzlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463072012101-0368dehegusnk9nirvqrrs2vdqdoe2tl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
